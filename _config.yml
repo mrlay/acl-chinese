@@ -1,0 +1,8 @@
+title: ANSI Common Lisp 中文翻譯版
+description: 正體简体双语版本
+google_analytics: UA-26995626-1
+show_downloads: true
+theme: jekyll-theme-time-machine
+
+gems:
+  - jekyll-mentions
